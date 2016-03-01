@@ -524,6 +524,10 @@ p {
   margin-right: auto;
 }
 
+.projects h3 {
+  margin-top: 90px;
+}
+
 .author {
   display: block;
   color: #999;
@@ -532,6 +536,12 @@ p {
 
 .example-image {
   max-width: 100%;
+}
+
+.auto-margin {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .caption {

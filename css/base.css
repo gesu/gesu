@@ -17,6 +17,8 @@ h4 { font-size: 1.25rem; }
 
 .container { max-width: 980px; margin-left: auto; margin-right: auto; }
 
+.container-top-padding { padding-top: 7rem; }
+
 .container-padding { padding-left: 1rem; padding-right: 1rem; }
 
 .un-decorated-list { list-style: none; padding-left: 0; }

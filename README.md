@@ -1,6 +1,2 @@
-From clean git clone:
+Built by: https://github.com/gesu/blog
 
-1. Set up ruby, rbenv
-2. gem install jekyll bundler
-
-bundle install
